@@ -1,0 +1,10 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\Jenkins\workspace\linoy.1
+[linoy.1] $ cmd /c call C:\Users\linoy\AppData\Local\Temp\jenkins6384234375394244722.bat
+
+C:\Jenkins\workspace\linoy.1>echo linoy - This is so Fun!!!!!! 
+linoy - This is so Fun!!!!!!
+
+C:\Jenkins\workspace\linoy.1>exit 0 
+Finished: SUCCESS

@@ -1,0 +1,18 @@
+Started by upstream project "[8mha:////4CPQjjlVuO090bdiB+bQex+wZWF9rcnQ+y/1ZSRM53FWAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JH2gbfmVeib6AK+FkrTCAAAA[0mlinoy.4" build number [8mha:////4MyTIFe8+4pYn8gg2qZFiJCxsBi9N0RPuhn4QnpkNDG0AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBj79rPwkfaBt+ZV6JvpmABSAZETDAAAA[0m6
+originally caused by:
+ Started by upstream project "[8mha:////4KJ/FvV1Kf1/zxPOx3w3yN4QLkqHCnHi0f65yfqdTOcaAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JH2gbfmVesb6AGgT0/vCAAAA[0mlinoy.3" build number [8mha:////4AbHfJpra5O/jr+QYoyNkc+8ecBhioXlqB365kxJTwyCAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ+/az8JH2gbfmVesb6huYAOUOJr8QAAAA=[0m17
+ originally caused by:
+  Started by upstream project "[8mha:////4JD2a9oQjqfeiEchjwlnOBRYWZvktP+78AVYnWCHVGnDAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JH2gbfmVekb6ACkiyOLCAAAA[0mlinoy.2" build number [8mha:////4J2VDH+oRfbcVxdSFJVRwXb6SXlNsjjkL6mZt8Qhn45EAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ+/az8JH2gbfmVekb6hpYAWwmN8MQAAAA=[0m19
+  originally caused by:
+   Started by upstream project "[8mha:////4B/D8C24YwVYa6mqQhrkhnCJfXlME7WjvZA5YTMmjamPAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JH2gbfmVeob6AOpx5cnCAAAA[0mlinoy.1" build number [8mha:////4E8JCdagNUBk44L/X1d3JkPpBPw80vTPb3SuKTQy98f8AAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ+/az8JH2gbfmVeob6xhYAofQJp8QAAAA=[0m38
+   originally caused by:
+    Started by timer
+Running as SYSTEM
+Building in workspace C:\Jenkins\workspace\linoy.5
+[linoy.5] $ cmd /c call C:\Users\linoy\AppData\Local\Temp\jenkins12918898477276110338.bat
+
+C:\Jenkins\workspace\linoy.5>echo job 5 
+job 5
+
+C:\Jenkins\workspace\linoy.5>exit 0 
+Finished: SUCCESS

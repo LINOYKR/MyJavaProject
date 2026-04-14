@@ -1,0 +1,44 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.Queue_-State>
+  <items>
+    <hudson.model.Queue_-WaitingItem>
+      <actions>
+        <hudson.model.CauseAction>
+          <causeBag class="linked-hash-map">
+            <entry>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>linoy.2</upstreamProject>
+                <upstreamUrl>job/linoy.2/</upstreamUrl>
+                <upstreamBuild>21</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.model.Cause_-UpstreamCause>
+                    <upstreamProject>linoy.1</upstreamProject>
+                    <upstreamUrl>job/linoy.1/</upstreamUrl>
+                    <upstreamBuild>40</upstreamBuild>
+                    <upstreamCauses>
+                      <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+                    </upstreamCauses>
+                  </hudson.model.Cause_-UpstreamCause>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+              <int>1</int>
+            </entry>
+          </causeBag>
+        </hudson.model.CauseAction>
+      </actions>
+      <id>94</id>
+      <task class="hudson.model.FreeStyleProject">linoy.3</task>
+      <inQueueSince>1775568791255</inQueueSince>
+      <timestamp>
+        <time>1775568796255</time>
+        <timezone>Asia/Jerusalem</timezone>
+      </timestamp>
+    </hudson.model.Queue_-WaitingItem>
+  </items>
+  <properties>
+    <entry>
+      <string>jenkins.model.queue.QueueIdStrategy$DefaultStrategy</string>
+      <long>94</long>
+    </entry>
+  </properties>
+</hudson.model.Queue_-State>

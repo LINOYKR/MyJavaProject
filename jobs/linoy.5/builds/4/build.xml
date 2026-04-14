@@ -1,0 +1,61 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>linoy.4</upstreamProject>
+            <upstreamUrl>job/linoy.4/</upstreamUrl>
+            <upstreamBuild>4</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>linoy.3</upstreamProject>
+                <upstreamUrl>job/linoy.3/</upstreamUrl>
+                <upstreamBuild>15</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.model.Cause_-UpstreamCause>
+                    <upstreamProject>linoy.2</upstreamProject>
+                    <upstreamUrl>job/linoy.2/</upstreamUrl>
+                    <upstreamBuild>17</upstreamBuild>
+                    <upstreamCauses>
+                      <hudson.model.Cause_-UpstreamCause>
+                        <upstreamProject>linoy.1</upstreamProject>
+                        <upstreamUrl>job/linoy.1/</upstreamUrl>
+                        <upstreamBuild>36</upstreamBuild>
+                        <upstreamCauses>
+                          <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+                        </upstreamCauses>
+                      </hudson.model.Cause_-UpstreamCause>
+                    </upstreamCauses>
+                  </hudson.model.Cause_-UpstreamCause>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@4.2.37-494.v06f9a_939d33a_">
+      <queuingDurationMillis>9805</queuingDurationMillis>
+      <blockedDurationMillis>0</blockedDurationMillis>
+      <buildableDurationMillis>1</buildableDurationMillis>
+      <waitingDurationMillis>9799</waitingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+  </actions>
+  <queueId>76</queueId>
+  <timestamp>1775568580056</timestamp>
+  <startTime>1775568580062</startTime>
+  <result>SUCCESS</result>
+  <duration>796</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Jenkins\workspace\linoy.5</workspace>
+  <hudsonVersion>2.528.1</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+</build>

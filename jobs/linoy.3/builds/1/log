@@ -1,0 +1,14 @@
+Started by upstream project "[8mha:////4JD2a9oQjqfeiEchjwlnOBRYWZvktP+78AVYnWCHVGnDAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JH2gbfmVekb6ACkiyOLCAAAA[0mlinoy.2" build number [8mha:////4DdwvyYBk5OMYriD96cvcbInbYT9WotVF8SVYSmguXzUAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBj79rPwkfaBt+ZV6RvrGACkIgzDDAAAA[0m3
+originally caused by:
+ Started by upstream project "[8mha:////4B/D8C24YwVYa6mqQhrkhnCJfXlME7WjvZA5YTMmjamPAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JH2gbfmVeob6AOpx5cnCAAAA[0mlinoy.1" build number [8mha:////4MA4VBVAA1Urf/OOIaB5iEaMmGWfFZoHiTa0BEjV8jbUAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ+/az8JH2gbfmVeob6RkYA/izHXsQAAAA=[0m22
+ originally caused by:
+  Started by user [8mha:////4NTFqAtOLhhbfOmqvpGdfH7rebzhOK4HiuSbRQkfuH0fAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace C:\Jenkins\workspace\linoy.3
+[linoy.3] $ cmd /c call C:\Users\linoy\AppData\Local\Temp\jenkins10470601893368904512.bat
+
+C:\Jenkins\workspace\linoy.3>echo this is job 3 
+this is job 3
+
+C:\Jenkins\workspace\linoy.3>exit 0 
+Finished: SUCCESS

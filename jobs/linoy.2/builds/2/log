@@ -1,0 +1,12 @@
+Started by upstream project "[8mha:////4B/D8C24YwVYa6mqQhrkhnCJfXlME7WjvZA5YTMmjamPAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JH2gbfmVeob6AOpx5cnCAAAA[0mlinoy.1" build number [8mha:////4NVY6olYqXkKwso8DhWH1aIu4Xg9X6Ipw39uQ7BCNk6tAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ+/az8JH2gbfmVeob6RoYARH3Ox8QAAAA=[0m21
+originally caused by:
+ Started by timer
+Running as SYSTEM
+Building in workspace C:\Jenkins\workspace\linoy.2
+[linoy.2] $ cmd /c call C:\Users\linoy\AppData\Local\Temp\jenkins13230096976507553043.bat
+
+C:\Jenkins\workspace\linoy.2>echo this is job 2 
+this is job 2
+
+C:\Jenkins\workspace\linoy.2>exit 0 
+Finished: SUCCESS

@@ -1,0 +1,14 @@
+Started by upstream project "[8mha:////4JD2a9oQjqfeiEchjwlnOBRYWZvktP+78AVYnWCHVGnDAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JH2gbfmVekb6ACkiyOLCAAAA[0mlinoy.2" build number [8mha:////4K9PVnhMCmzoKgpWPeAsVVvWxIA8Cst0XcXUY2Iw6lIgAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ+/az8JH2gbfmVekb6hoYAaYFW/sQAAAA=[0m11
+originally caused by:
+ Started by upstream project "[8mha:////4B/D8C24YwVYa6mqQhrkhnCJfXlME7WjvZA5YTMmjamPAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JH2gbfmVeob6AOpx5cnCAAAA[0mlinoy.1" build number [8mha:////4KMos+dQcoLLJ3ap3rRnaKtIJKj94vTEnKdj1fVxmAg2AAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZ+/az8JH2gbfmVeob6xgYAk3zSqcQAAAA=[0m30
+ originally caused by:
+  Started by timer
+Running as SYSTEM
+Building in workspace C:\Jenkins\workspace\linoy.3
+[linoy.3] $ cmd /c call C:\Users\linoy\AppData\Local\Temp\jenkins643956293766281355.bat
+
+C:\Jenkins\workspace\linoy.3>echo this is job 3 
+this is job 3
+
+C:\Jenkins\workspace\linoy.3>exit 0 
+Finished: SUCCESS
